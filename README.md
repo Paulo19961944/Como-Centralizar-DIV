@@ -34,25 +34,28 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
             Pois o ele está mudando o posicionamento em relação ao pai e não ao elemento em si.
             2.1.5: Deste jeito nós alinhamos verticalmente e horizontalmente o nosso elemento, deixando ele no centro da tela.
 
+            EXEMPLOS
+    
+            CÓDIGO 1:
+            body{
+                display:flex;
+                justify-content:center;
+                align-items:center;
+            }
+    
+            CÓDIGO 2:
+            div{
+                position:absolute;
+                top:50%
+                left:50%
+                transform:translate(-50%, -50%);
+            }
+
         OBS: Espero que isso tenha esclarecido a dúvida de centralizar uma div, então estudem bastante, pois a melhor forma de aprendiazado é a prática
 
         Meu muito obrigado e meu fraternal abraço a todos os devs.
         Att: Paulo Henrique Azevedo do Nascimento.
 
-        CÓDIGO 1 (EXEMPLO):
-        body{
-            display:flex;
-            justify-content:center;
-            align-items:center;
-        }
-
-        CÓDIGO 2 (EXEMPLO):
-        div{
-            position:absolute;
-            top:50%
-            left:50%
-            transform:translate(-50%, -50%);
-        }
 
 # Observação
 Caso deseje é só copiar e colar o script para server de apoio a vocês, um fraternal abraço a todos os Devs.
