@@ -6,7 +6,7 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
     1. Entenda o que está fazendo e o que faz cada propriedade.
     Primeiro de tudo temos que entender o que faz cada coisa, e vou explicar para vocês
         1.1: Flexbox
-        É muito comum nós usarmos o flexbox para centralizar elementos, segue alguns itens do flexbox
+        É muito comum nós usar o flexbox para centralizar elementos, segue alguns itens do flexbox
         - display:flex; -> É o flexbox em si, o que nos possibilita o mundo aberto entre nós programadores
         - flex-direction:row /column; -> Define a direção do elemento, se está em linha (row) ou se está em colunas (column)
         - justify-content:center; -> Alinha o Eixo Principal
@@ -19,11 +19,11 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
         Caso seja em coluna, o Eixo Principal muda, sendo o alinhamento na vertical, que é o sentido da coluna.
 
         1.3: Eixo Perpendicular
-        O Eixo Perpendicular é o eixo oposto ao Flexbox, como por padrão é linha, caso não altere ele irá alinhar na Vertical.
+        O Eixo Perpendicular é o eixo oposto ao Flexbox, como por padrão é linha, caso não altere ele vai alinhar na Vertical.
         Caso esteja em coluna, ele muda para o lado oposto do Flexbox, como o Eixo Principal segue o principio da coluna,
-        então ele irá alinhar na Horizontal.
+        então ele vai alinhar na Horizontal.
     
-    2. Esse método é antigo, quando não tinhamos o Flexbox, mas irei mostrar mesmo assim, pois algum código que farão manutenção pode vir desse jeito.
+    2. Esse método é antigo, quando não tinhamos o Flexbox, mas vou mostrar mesmo assim, pois algum código que vocês vão fazer manutenção pode vir deste jeito.
 
         2.1: Position Absolute
             2.1.1: O position absolute é uma forma de posicionar elementos em relação ao elemento pai.
@@ -51,11 +51,11 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
                 transform:translate(-50%, -50%);
             }
 
-        OBS: Espero que isso tenha esclarecido a dúvida de centralizar uma div, então estudem bastante, pois a melhor forma de aprendiazado é a prática
+        OBS: Espero que isso tenha esclarecido a dúvida de centralizar uma div, então estudem bastante, pois a melhor forma de aprendizado é a prática
 
         Meu muito obrigado e meu fraternal abraço a todos os devs.
         Att: Paulo Henrique Azevedo do Nascimento.
 
 
 # Observação
-Caso deseje é só copiar e colar o script para server de apoio a vocês, um fraternal abraço a todos os Devs.
+Caso deseje é só copiar e colar o script para servir de apoio a vocês, um fraternal abraço a todos os Devs.
