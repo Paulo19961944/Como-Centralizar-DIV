@@ -28,9 +28,9 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
         2.1: Position Absolute
             2.1.1: O position absolute é uma forma de posicionar elementos em relação ao elemento pai.
             Quando não usamos é o nosso próprio body em si, mas se estiver dentro de uma div pai, então irá ser em relação a esta div.
-            2.1.2: Utilizamos o (top:50%) para posicionar em 50% em relação ao topo do elemento pai
-            2.1.3: Utilizamos o (left:50%) para posicionar em 50% a direita do elemento pai
-            2.1.4: Utilizamos o (transform:translate(-50%, -50%)) para corrigir  os erros de posição que podem acontecer.
+            2.1.2: Utilizamos o (top:50%;) para posicionar em 50% em relação ao topo do elemento pai
+            2.1.3: Utilizamos o (left:50%;) para posicionar em 50% a direita do elemento pai
+            2.1.4: Utilizamos o (transform:translate(-50%, -50%);) para corrigir  os erros de posição que podem acontecer.
             Pois o ele está mudando o posicionamento em relação ao pai e não ao elemento em si.
             2.1.5: Deste jeito nós alinhamos verticalmente e horizontalmente o nosso elemento, deixando ele no centro da tela.
 
