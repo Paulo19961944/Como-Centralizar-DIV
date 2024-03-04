@@ -40,5 +40,4 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
         Att: Paulo Henrique Azevedo do Nascimento.
 
 # Observação
-Caso deseje é só copiar e colar o script para server de apoio a vocês, um fraternal abraço
-Att: Paulo Henrique Azevedo do Nascimento
+Caso deseje é só copiar e colar o script para server de apoio a vocês, um fraternal abraço a todos os Devs.
