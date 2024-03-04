@@ -46,8 +46,8 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
             CÓDIGO 2:
             div{
                 position:absolute;
-                top:50%
-                left:50%
+                top:50%;
+                left:50%;
                 transform:translate(-50%, -50%);
             }
 
