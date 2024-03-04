@@ -39,5 +39,20 @@ Calma, estou aqui para te ajudar. Vou colocar algumas dicas e explico o código 
         Meu muito obrigado e meu fraternal abraço a todos os devs.
         Att: Paulo Henrique Azevedo do Nascimento.
 
+        CÓDIGO 1 (EXEMPLO):
+        body{
+            display:flex;
+            justify-content:center;
+            align-items:center;
+        }
+
+        CÓDIGO 2 (EXEMPLO):
+        div{
+            position:absolute;
+            top:50%
+            left:50%
+            transform:translate(-50%, -50%);
+        }
+
 # Observação
 Caso deseje é só copiar e colar o script para server de apoio a vocês, um fraternal abraço a todos os Devs.
